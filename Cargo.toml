@@ -1,0 +1,12 @@
+[package]
+name = "gather-mdbook-anchors"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.42"
+lazy_static = "1.4.0"
+mdbook = "0.4.10"
+regex = "1.5.4"
